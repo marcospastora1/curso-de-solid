@@ -12,13 +12,6 @@ class ContratoModel extends BD implements ICadastro
 {
   public function salvar()
   {
-  }
-
-  public function enviarNotificacao(Notificacao $notificaco)
-  {
-  }
-
-  public function registrarLog(Log $log)
-  {
+    //logica
   }
 }
