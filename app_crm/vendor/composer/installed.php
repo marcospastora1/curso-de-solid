@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'code-dev-33/app_crm',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '1b48709a903ff7338fa94d3b78ea71b7cb6bab73',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'code-dev-33/app_crm' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '1b48709a903ff7338fa94d3b78ea71b7cb6bab73',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
