@@ -1,0 +1,7 @@
+solid
+
+1- Principio da responsabilidade unica
+2- principio aberto e fechado -> estar aberto a extenções e fechado a alterações
+3- Principio de substituição de Liskov
+4- Principio da segregação de interface -> Clientes não devem ser forçados a depender de métodos que não usam (muitas interfaces especificas são melhores que uma única interface)
+5- Principio da inversão de dependencia
